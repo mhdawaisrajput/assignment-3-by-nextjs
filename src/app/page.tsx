@@ -39,40 +39,36 @@ export default function HomePage() {
         </h1>
         <div className="text-[#03045E] text-1.5xl leading-normal mt-12 mx-32">
           <p>
-            Hi, I&apos;m Muhammad Awais 👋 I&apos;m currently expanding my skill set as
-            part of the Applied GenAI Cloud Development Stack certification
-            under the Governor of Sindh&apos;s I.T initiative. This program focuses
-            on cutting-edge cloud technologies and AI integrations, equipping me
-            with advanced development capabilities across:
+            I am <span className="font-bold text-lg">Muhammad Awais,</span> currently on a transformative journey to build custom GPTs, AI agents, humanoid robots, and fine-tune large language models (LLMs). With an in-depth understanding of Cloud Native technologies, Generative AI, and Physical AI, {`I’m`} learning to develop scalable, intelligent systems that will shape the future.
             <br /> <br />
-            Here&apos;s what I&apos;m working on:
+            <span className="font-bold text-lg">🔑 Key Skills & Focus Areas: </span> <br /><br />
           </p>
 
           <li>
-            Frontend GUI Stack: Learning TypeScript, Next.js, React, Tailwind
-            CSS, Shadcn UI, and Dev UI to create great user interfaces.
+          <span className="font-bold text-lg">Agentic AI & Multi-Agent Systems:</span> Developing AI-driven software and robotic agents for automated tasks.
           </li>
 
           <li>
-            Backend API Stack: Using Python, FastAPI, SQLModel, PostgreSQL, and
-            Kafka to build powerful and efficient server-side systems.
+          <span className="font-bold text-lg">Cloud Native Development:</span> Mastering Docker, Kubernetes, Terraform, and FastAPI to build and deploy AI-powered microservices.          
           </li>
 
           <li>
-            Backend Cloud Stack: Working with Docker, Kubernetes, Serverless,
-            GitHub Actions, and Terraform to manage and deploy applications in
-            the cloud.
+          <span className="font-bold text-lg">Humanoid Robotics & Physical AI:</span> Integrating AI in robotics for real-world interaction and simulations using tools like ROS 2 and OpenAI.
           </li>
 
           <li>
-            GenAI API Stack: Exploring OpenAI APIs, LangChain, Pinecone, and
-            Transformers to integrate AI into applications.
+          <span className="font-bold text-lg">LLM Customization & AI APIs: </span> Fine-tuning open-source models like Meta LLaMA 3 using PyTorch, and deploying them via cloud platforms.
           </li>
 
           <li>
-            Custom GPT Stack: Learning to create custom AI models using OpenAI
-            GPTs and OpenAPI.
+          <span className="font-bold text-lg">Design Thinking & Behavior-Driven Development (BDD):</span> Ensuring AI systems align with real-world needs.
           </li>
+
+          <br />
+
+          <li>
+          <span className="font-bold text-lg">🚀 Goal:</span> To become a global expert in AI, custom GPTs, and humanoid robotics, while leveraging GenAI, Web3, and cloud technologies.</li>
+          
         </div>
       </section>
 
