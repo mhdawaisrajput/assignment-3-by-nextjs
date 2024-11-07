@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Footer() {
   return (
     // Footer Section
-    <footer className="text[#03045E] bg-[#F7F197] py-6 mt-36 font-semibold">
+    <footer className="text[#03045E] bg-[#F7F197] py-6 mt-36 font-semibold max-w-screen-2xl mx-auto">
       <div className="mx-32 flex justify-between items-center">
         <div className="text-sm">
           &copy; {new Date().getFullYear()} Muhammad Awais. All rights reserved.
